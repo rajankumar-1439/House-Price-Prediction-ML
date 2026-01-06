@@ -109,6 +109,10 @@ Step 3: Install Dependencies pip install numpy pandas matplotlib seaborn scikit-
 
 Step 4: Run Notebook jupyter notebook
 
+Open House_price_predict.ipynb and run cells sequentially.
+![Streamlit_page-0001](https://github.com/user-attachments/assets/1f626c61-00a9-46c3-b7be-ad6e467e3067)
+
+
 
 
 📊 Results & Conclusion
